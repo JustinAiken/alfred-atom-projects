@@ -12,6 +12,7 @@ Currently very rough!
 
 ### Usage/setup
 
+- Install the `.alfredworkflow` file from the [releases](https://github.com/JustinAiken/alfred-atom-projects/releases) page
 - You might have to:
   - `cd` to the workflow directory
   - `bundle install`
